@@ -1,0 +1,16 @@
+{
+  "name": "novalnet/jtl_novalnet",
+  "type": "library",
+  "version": "13.0.0",
+  "description": "PCI Compliant, seamless integration with the various types of payment and payment-related services integrated into one unique platform",
+  "license": "MIT",
+  "authors": [
+        {
+            "name": "Novalnet AG",
+            "homepage": "https://www.novalnet.de"
+        }
+    ],
+  "require": {
+    "php": ">=8.0"
+  }
+}
